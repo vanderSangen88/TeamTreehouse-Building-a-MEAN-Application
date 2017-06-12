@@ -1,0 +1,22 @@
+{
+  "name": "teamtreehouse-building-a-mean-application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\u001b[D\u001b[src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanderSangen88/TeamTreehouse-Building-a-MEAN-Application.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanderSangen88/TeamTreehouse-Building-a-MEAN-Application/issues"
+  },
+  "homepage": "https://github.com/vanderSangen88/TeamTreehouse-Building-a-MEAN-Application#readme",
+  "dependencies": {
+    "express": "4.15.3"
+  }
+}
